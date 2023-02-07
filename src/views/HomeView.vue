@@ -38,7 +38,7 @@
 				<span class="text-4xl md:text-6xl font-bold">Limited Seats Only!</span>
 				<span class="text-4xl md:text-6xl font-bold"> </span>
                 <div class="mt-2 md:mt-0 w-1/2 flex flex-col">
-                    <span class="text-4xl md:text-6xl font-bold border-b-4 border-green-600">6</span>
+                    <span class="text-4xl md:text-6xl font-bold border-b-4 border-green-600">4</span>
                     <span class="text-xl md:text-2xl">sessions</span>
                 </div>
                 <div class="mt-2 md:mt-0 w-1/2 flex flex-col">
@@ -76,7 +76,7 @@
                     This is a gathering of agriculture and apiculture experts, local herbalists, and researchers who will cover multiple topics regarding native plants and sustainability.
                 </p>
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">
-                    Key sponsors will be present on that day in Al Bahar Hotel & Resort, Fujairah. Do not hesitate to meet them at their booths to learn more about them. See what they have waiting for you 🙂.
+                    Key sponsors will be present on that day in Al Bahar Hotel & Resort, Fujairah. Do not hesitate to meet them at their booths to learn more about them. See what they have waiting for you.
                 </p>
             </div>
         </div>
