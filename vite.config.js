@@ -7,7 +7,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   
   plugins: [vue()],
-  base: '/NativePlantConference2023/',
+  base: '/NativePlantConference2023-temp/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
