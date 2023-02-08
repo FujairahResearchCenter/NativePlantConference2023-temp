@@ -45,6 +45,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: node-app
+          path: ./dist
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
@@ -54,3 +55,5 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F996DFE229804E82953337322220A8A7 }}
           package: .
+          publish_dir: ./dist
+          
